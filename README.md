@@ -6,4 +6,4 @@ Atividade feita em dupla:
 
 ## Escopo
 
-Criar um aplicativo com Exp
+Criar um aplicativo com Expo

@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { StyleSheet, Text, View, TouchableOpacity, Button } from 'react-native';
 
 export default function App() {
-  const [contador, setContador] = useState(0);
+  // const [contador, setContador] = useState(0);
 
   // const clicar = () => {
   //   setContador(contador + 1);
